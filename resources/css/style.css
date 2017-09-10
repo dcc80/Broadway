@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+
+
+header {
+  background-image: url("resources\images\theflatironbuilding.png");
+}
+
+footer {
+  text-align: left;
+}
