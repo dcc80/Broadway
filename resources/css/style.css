@@ -3,8 +3,23 @@ body {
 }
 
 header, #ny {
-  background-image: url("../images/theflatironbuilding.png");
   font-size: 70px;
+  color: white;
+
+}
+
+.presentation {
+  margin:auto;
+  background-image: url("../images/theflatironbuilding.png") ;
+  font-size: 70px;
+  color: white;
+
+}
+
+strong, nav li {
+  list-style-type: none;
+  font-family: Helvetica;
+  font-size: 18px;
   color: white;
 }
 
@@ -28,8 +43,14 @@ p {
 
 footer {
   text-align: left;
-  font-size: 11px;
-  color: white;
+  color: #ffffff;
   background-color: dimgray;
+  flex-direction: row;
+}
 
+a {
+  color: white;
+}
+#copyright {
+  font-size: 11px;
 }
