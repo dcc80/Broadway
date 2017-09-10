@@ -2,9 +2,8 @@ body {
   text-align: center;
 }
 
-
 header {
-  background-image: url("resources\images\theflatironbuilding.png");
+  background-image: url("../images/theflatironbuilding.png");
 }
 
 footer {
